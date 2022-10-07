@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://vk.com/id106636786">
     <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://t.me/testdeveloper7967">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://discordapp.com/users/601103848895152168/">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
@@ -17,7 +17,7 @@
   <a href="https://testdeveloper.ru">
     Watch my Portfolio
   </a> <br/>
-  <a href="your-youtube-URL">
+  <a href="https://hh.ru/resume/9aa2a7d7ff095573e90039ed1f736149717645">
     Watch my hh.ru
   </a>
 </div>
