@@ -31,13 +31,14 @@
   
 ### :man_technologist: About Me : I am a WEB Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: В стремлении всегда быть в курсе событий я стараюсь следить за новостями и обновлениями, выполняю и обновляю проекты, но ощущаю что уровень моего кода растет медленно.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Делая сильный акцент на "прогрессивном улучшении", я ищу способы расширить границы своего кода с помощью работы в хорошем коллективе.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Я вполне легко схватываю новый материал и не имею проблем с пониманием новых инструментов.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+Те, кто говорят, что за программированием будущее, немного лукавят:
+программирование — вполне себе настоящее, и игнорировать этот факт — значит лишать себя массы возможностей для профессионального и личностного роста.
   
 ---
 <div align="center">
