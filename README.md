@@ -64,14 +64,17 @@
 
 ### :fire: My Stats :
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TestDevelopeer&count_private=true&theme=radical&hide_border=true&fire=DD500E&background=0D1117&stroke=474747)](https://git.io/streak-stats)
-  
-<div>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestDevelopeer&hide_border=true&layout=compact&theme=radical&bg_color=0D1117&count_private=true" />
-</a>
+<div align="center">
+<a href="https://git.io/streak-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=TestDevelopeer&count_private=true&theme=radical&hide_border=true&fire=DD500E&background=0D1117&stroke=474747" />
+</a> </br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TestDevelopeer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&hide=prs,contribs" />
+</a> </br>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TestDevelopeer&hide_border=true&layout=compact&theme=radical&bg_color=0D1117&count_private=true" />
 </a>
 </div>
 
