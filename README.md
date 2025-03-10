@@ -30,7 +30,7 @@
 </h1>
 </div>
   
-### :man_technologist: About Me : I am a WEB Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### :man_technologist: Обо мне : WEB разработчик (Laravel) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: В стремлении всегда быть в курсе событий я стараюсь следить за новостями и обновлениями, выполняю и обновляю проекты, но ощущаю что уровень моего кода растет медленно.
 
@@ -46,7 +46,7 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Инструменты :
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -63,23 +63,8 @@
   
 ---
 
-### :fire: My Stats :
+### :fire: Статистика :
   
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TestDevelopeer&theme=radical&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
-
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TestDevelopeer&repo=react-SocialLearn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&show_owner=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TestDevelopeer&repo=react-Todo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&show_owner=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TestDevelopeer&repo=react-BookShop&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&show_owner=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TestDevelopeer&repo=react-Pixel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&show_owner=true" />
-</a>
