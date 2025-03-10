@@ -15,9 +15,6 @@
 <br/>
 <div align="center">
   <div id="badges">
-  <a href="https://testdeveloper.ru">
-    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logoColor=white" alt="hh.ru Badge"/>
-  </a>
   <a href="https://hh.ru/resume/9aa2a7d7ff095573e90039ed1f736149717645">
     <img src="https://img.shields.io/badge/hh.ru-red?style=for-the-badge&logoColor=white" alt="hh.ru Badge"/>
   </a>
