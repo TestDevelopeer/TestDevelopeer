@@ -4,7 +4,7 @@
   <a href="https://vk.com/id106636786">
     <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="https://t.me/testdeveloper7967">
+  <a href="https://t.me/@yyyesss_sir">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://discordapp.com/users/601103848895152168/">
